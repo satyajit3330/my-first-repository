@@ -1,0 +1,6 @@
+Rank	Team	Won	Lost	Tied*	Pct.	First Season	Total Games	Conference
+1	Dallas Cowboys	510	378	6	.574	1960	894	NFC East
+2	Chicago Bears	752	563	42	.570	1920	1357	NFC North
+3	Green Bay Packers	741	561	37	.567	1921	1339	NFC North
+4	Miami Dolphins	443	345	4	.562	1966	792	AFC East
+5	Baltimore Ravens	182	143	1	.560	1996	326	AFC North
